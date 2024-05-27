@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+}
+h1{
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-size:xx-large;
+  font-style: normal;
+}
+p{
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+button{
+  background-color: #6E3FEF;
+  color: white;
+  padding: 10px;
+  border-radius: 60px;
+  border: none;
+  width: 50%;
+}
